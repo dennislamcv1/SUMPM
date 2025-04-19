@@ -1,5 +1,5 @@
 # SUMPM
-## Mastering Program Management: Strategy to Certification Specialization
+## Mastering Program Management: Strategy to Certification Specialization (3 course series)
 
 Program managers with PMI-PgMP certification earn up to 42% more (Project Management Institute). This Mastering Program Management: Strategy to Certification Specialization is ideal for experienced project managers who are looking to progress into a program management role.
 
